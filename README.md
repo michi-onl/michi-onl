@@ -16,20 +16,14 @@ Building performant, well-designed software.
 
 ---
 
-## Featured Work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helldivers-2&repo=companion)](https://github.com/helldivers-2/companion)
-
----
-
 ## Open Source
 
-### Active Projects
+### Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helldivers-2&repo=companion)](https://github.com/helldivers-2/companion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michi-onl&repo=widgets)](https://github.com/widgets/widgets)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michi-onl&repo=subscriptions)](https://github.com/subscriptions/subscriptions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zen-browser&repo=www)](https://github.com/zen-browser/www)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons)](https://github.com/simple-icons/simple-icons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michi-onl&repo=widgets)](https://github.com/michi-onl/widgets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michi-onl&repo=subscriptions)](https://github.com/michi-onl/subscriptions)
 
 ### Essential Tools
 - **[Zen Browser](https://github.com/zen-browser/desktop)** - Privacy-focused web browser
