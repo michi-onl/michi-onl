@@ -48,49 +48,7 @@ Building performant, well-designed software.
 
 ## Open Source I Use & Recommend
 
-### Projects
-
-<a href="https://github.com/helldivers-2/companion">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=helldivers-2&repo=companion&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=helldivers-2&repo=companion&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=helldivers-2&repo=companion&theme=default" alt="Helldivers 2 Companion"/>
-  </picture>
-</a>
-
-<a href="https://github.com/zen-browser/www">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=zen-browser&repo=www&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=zen-browser&repo=www&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zen-browser&repo=www&theme=default" alt="Zen Browser Website"/>
-  </picture>
-</a>
-
-<a href="https://github.com/simple-icons/simple-icons">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=default" alt="Simple Icons"/>
-  </picture>
-</a>
+<!--### Projects
 
 <a href="https://github.com/michi-onl/widgets">
   <picture>
@@ -106,19 +64,7 @@ Building performant, well-designed software.
   </picture>
 </a>
 
-<a href="https://github.com/michi-onl/subscriptions">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=michi-onl&repo=subscriptions&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=michi-onl&repo=subscriptions&theme=default"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=michi-onl&repo=subscriptions&theme=default" alt="Subscriptions"/>
-  </picture>
-</a>
+## My Homelab Setup-->
 
 ### Tools & Resources
 
