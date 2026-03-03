@@ -4,7 +4,7 @@ Building performant, well-designed software.
 
 ---
 
-## Development Activity
+<!-- ## Development Activity
 
 <div>
   <picture>
@@ -44,7 +44,7 @@ Building performant, well-designed software.
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michionl&hide_title=true&layout=compact&theme=default&hide_border=false" alt="WakaTime Stats" height="180"/>
 </picture>
 
----
+--- -->
 
 ## Open Source I Use & Recommend
 
