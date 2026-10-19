@@ -1,7 +1,7 @@
 **Hi there!** 👋
 
 I'm [Michi](https://michi.onl), a business informatics engineer from Germany.
-I build small, performant software, localize open-source apps, and keep a homelab running.
+I build well-designed, performant software, localize open-source apps and run a personal homelab.
 I like the handmade web.
 
 <a href="https://github.com/michi-onl"><img src="assets/icons/github.gif" width="32" height="32" alt="GitHub"></a>
@@ -13,7 +13,7 @@ I like the handmade web.
 
 <hr>
 
-## Badges
+## Things i like:
 
 ### Privacy & Security
 
@@ -21,21 +21,25 @@ I like the handmade web.
 <a href="https://bitwarden.com"><img src="assets/badges/bitwarden.gif" width="88" height="31" alt="Bitwarden"></a>
 <a href="https://darkreader.org"><img src="assets/badges/dark-mode.gif" width="88" height="31" alt="Dark Reader"></a>
 <a href="https://duckduckgo.com"><img src="assets/badges/ddg.gif" width="88" height="31" alt="DuckDuckGo"></a>
+<a href="https://www.eff.org"><img src="assets/badges/eff.gif" width="88" height="31" alt="Electronic Frontier Foundation"></a>
+<a href="https://www.ccc.de"><img src="assets/badges/ccc.gif" width="88" height="31" alt="Chaos Computer Club"></a>
+<a href="https://github.com/Anon-Planet/thgtoa"><img src="assets/badges/anonymize.gif" width="88" height="31" alt="Anonymize the Web now"></a>
 
-### Open Source & Tools
+### Open Source Projects & Tools
 
 <a href="https://vscodium.com"><img src="assets/badges/vscodium.gif" width="88" height="31" alt="VSCodium"></a>
 <a href="https://www.gnu.org/philosophy/free-sw.html"><img src="assets/badges/sourcemissing.gif" width="88" height="31" alt="Source missing"></a>
 <a href="https://freifunk.net"><img src="assets/badges/freifunk.png" width="88" height="31" alt="Freifunk"></a>
 
-### The Web
+### The Old/Small/Indie/Geocities Web
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/badges/learn-html.gif" width="88" height="31" alt="Learn HTML"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design"><img src="assets/badges/mobilefriendly.gif" width="88" height="31" alt="Mobile friendly"></a>
 <a href="https://validator.w3.org/feed/"><img src="assets/badges/valid-atom.gif" width="88" height="31" alt="Valid Atom"></a>
+<a href="https://www.w3.org/QA/Tips/iso-date"><img src="assets/badges/iso.gif" width="88" height="31" alt="ISO 8601"></a>
 <img src="assets/badges/no-webp.gif" width="88" height="31" alt="No WebP">
 
-### Web Culture & Archive
+### Web Culture & Web Archive
 
 <a href="https://archive.org"><img src="assets/badges/archiveorg.gif" width="88" height="31" alt="Internet Archive"></a>
 <a href="https://www.gutenberg.org"><img src="assets/badges/project-gutenberg.gif" width="88" height="31" alt="Project Gutenberg"></a>
@@ -55,6 +59,12 @@ I like the handmade web.
 <a href="https://www.humanetech.com"><img src="assets/badges/ditch-social-media.gif" width="88" height="31" alt="Ditch social media"></a>
 <a href="https://www.ifixit.com/Right-to-Repair"><img src="assets/badges/righttorepair.gif" width="88" height="31" alt="Right to repair"></a>
 <a href="https://yesterweb.org/no-to-web3/"><img src="assets/badges/saynotoweb3.gif" width="88" height="31" alt="Say no to web3"></a>
+
+### Values
+
+<a href="https://www.amadeu-antonio-stiftung.de"><img src="assets/badges/antinazi.gif" width="88" height="31" alt="No Nazi, no fascism, no racism"></a>
+<a href="https://u24.gov.ua"><img src="assets/badges/defendukraine.png" width="88" height="31" alt="Defend Ukraine"></a>
+<a href="https://en.wikipedia.org/wiki/Progress_Pride_flag"><img src="assets/badges/progress.png" width="88" height="31" alt="Progress Pride flag"></a>
 
 <hr>
 
